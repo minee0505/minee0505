@@ -7,6 +7,16 @@
 현재는 `Java`, `HTML/CSS`, `Git` 등을 중심으로  
 **매일매일 코딩하고, 성장하고, 기록 중이에요** ✨
 
+### 💻 Tech Stack
+
+| Skill        | Level            |
+|--------------|------------------|
+| Java         | 💚💚⬜⬜⬜ |
+| HTML / CSS   | 💙💙💙⬜⬜ |
+| JavaScript   | 💛💛⬜⬜⬜ |
+| Git & GitHub | ❤️❤️❤️⬜⬜ |
+| SQL          | 💜⬜⬜⬜⬜ |
+
 
 <!--
 **minee0505/minee0505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
