@@ -1,4 +1,9 @@
-## Hi there 👋
+#   안녕하세요! 🐰 minee입니다!  
+
+💉 전직 간호사 → 💻 개발자로 레벨업 중!
+🌱 국비 과정을 통해 매일 조금씩 성장하는 초보 개발자입니다.  
+현재는 Java, HTML/CSS, Git 등을 중심으로 
+매일매일 코딩하고, 성장하고, 기록 중이에요✨
 
 <!--
 **minee0505/minee0505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
